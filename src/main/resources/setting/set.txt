@@ -1,0 +1,8 @@
+false
+false
+5000
+1
+false
+5
+-1
+false

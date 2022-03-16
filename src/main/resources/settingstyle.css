@@ -1,0 +1,8 @@
+.label{
+    -fx-font-size: 15pt;
+    -fx-text-fill: white;
+    -fx-padding: 10px;
+}
+.root{
+    -fx-font-family: "Courier New";
+}
